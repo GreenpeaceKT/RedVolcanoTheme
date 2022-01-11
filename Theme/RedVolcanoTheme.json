@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "author": "GreenpeaceKT#4042",
+        "name": "Red Volcano Theme",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/654657782838067201\/930348954640580618\/P_2022011_15334.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 83848043,
+        "background_secondary": 16736609,
+        "active_channel": 1727991296,
+        "mention_highlight": 1255565326
+    },
+    "colors": {
+        "primary_dark_800": -14606047,
+        "primary_dark_400": -2105377,
+        "primary_dark_660": -1358954496,
+        "uikit_btn_bg_color_selector_secondary_dark": -37276,
+        "uikit_btn_compound_color_selector_dark": -305064,
+        "uikit_btn_bg_color_selector_red": -42920,
+        "uikit_btn_bg_color_selector_green": -40350,
+        "primary_dark_300": -107428,
+        "uikit_settings_item_text_color_light": -3014656,
+        "brand_new_560": -40864
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -43177,
+        "ic_thread": -42920,
+        "ic_sidebar_notifications_off_dark_24dp": -41635,
+        "ic_sidebar_notifications_on_dark_24dp": -43434,
+        "ic_sidebar_pins_off_dark_24dp": -39836,
+        "ic_sidebar_pins_on_dark_24dp": -42663,
+        "ic_sidebar_search_24dp": -44205
+    },
+    "raws": {}
+}
