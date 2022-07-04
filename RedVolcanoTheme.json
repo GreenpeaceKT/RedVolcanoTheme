@@ -2,18 +2,18 @@
     "manifest": {
         "author": "GreenpeaceKT#4042",
         "name": "Red Volcano Theme",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "updater": "https://raw.githubusercontent.com/GreenpeaceKT/RedVolcanoTheme/main/RedVolcanoTheme.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/654657782838067201\/930348954640580618\/P_2022011_15334.jpg"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachment{
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
     "manifest": {
         "author": "GreenpeaceKT#4042",
         "name": "Red Volcano Theme",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/GreenpeaceKT\/RedVolcanoTheme\/main\/RedVolcanoTheme.json"
     },
     "background": {
