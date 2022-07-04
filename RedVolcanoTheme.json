@@ -2,18 +2,27 @@
     "manifest": {
         "author": "GreenpeaceKT#4042",
         "name": "Red Volcano Theme",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "updater": "https://raw.githubusercontent.com/GreenpeaceKT/RedVolcanoTheme/main/RedVolcanoTheme.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/654657782838067201\/930348954640580618\/P_2022011_15334.jpg"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913621584420421703\/MavenPro-Bold.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachment{
+    "manifest": {
+        "author": "GreenpeaceKT#4042",
+        "name": "Red Volcano Theme",
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/GreenpeaceKT\/RedVolcanoTheme\/main\/RedVolcanoTheme.json"
     },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/654657782838067201\/930348954640580618\/P_2022011_15334.jpg"
+    },
+    "fonts": {},
     "simple_colors": {
-        "background": 83848043,
-        "background_secondary": 16736609,
+        "background": 184549376,
+        "background_secondary": 184549376,
         "active_channel": 1727991296,
         "mention_highlight": 1255565326
     },
@@ -25,9 +34,10 @@
         "uikit_btn_compound_color_selector_dark": -305064,
         "uikit_btn_bg_color_selector_red": -42920,
         "uikit_btn_bg_color_selector_green": -40350,
-        "primary_dark_300": -107428,
         "uikit_settings_item_text_color_light": -3014656,
-        "brand_new_560": -40864
+        "brand_new_560": -40864,
+        "primary_dark_300": -39322,
+        "primary_700": 2113929216
     },
     "drawable_tints": {
         "drawable_button_grey": -43177,
